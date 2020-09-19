@@ -1,0 +1,26 @@
+﻿  Enemy.cpp
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\enemy.cpp(18): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Hero.cpp
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\hero.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rocket.cpp
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\rocket.cpp(23): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Source.cpp
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\source.cpp(12): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\source.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\source.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\source.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\colds\downloads\cpp-game-development-by-example-master\chapter05\5.sfmlproject\sfmlproject\source.cpp(222): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFMLProject.vcxproj -> C:\Users\colds\Downloads\CPP-Game-Development-By-Example-master\Chapter05\5.SFMLProject\Debug\SFMLProject.exe
